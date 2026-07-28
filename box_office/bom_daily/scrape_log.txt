@@ -1,0 +1,4 @@
+2026-07-27 20:27:17,874 WARNING Non-200 (404) for https://www.boxofficemojo.com/release/rl834437121/daily/
+2026-07-27 20:27:20,466 WARNING Non-200 (404) for https://www.boxofficemojo.com/release/rl834437121/daily/
+2026-07-27 20:27:23,048 WARNING Non-200 (404) for https://www.boxofficemojo.com/release/rl834437121/daily/
+2026-07-27 20:27:23,049 WARNING Following: Found release page (https://www.boxofficemojo.com/release/rl834437121/) but no parseable daily table (film may have too limited a release for BOM to publish daily data).
